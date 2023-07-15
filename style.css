@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    width: 600px;
+    height: 130px;
+}
+
+.piper {
+    text-decoration: none;
+    border: 1px solid blue;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.logo {
+    width: 600px;
+    height: 100px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.violet {
+    color: violet;
+}
+
+.darkviolet {
+    color: darkviolet;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: darkorange;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.brown {
+    color: brown;
+}
+
+h3 {
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px 
+}
